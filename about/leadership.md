@@ -96,7 +96,7 @@ redirect_from: /leadership/
 
 <div class="row coordinating-committee">
     <div class="col-sm-10">
-        <h3>Jessica Neal</h3>
+        <h3>Jessica C. Neal</h3>
         <p>Jessica C. Neal (1st term, 2021-2023; <a href="/conference/">2022 DigiPres</a> Chair) is an archivist, records manager, and memory worker. She is currently the Sterling A. Brown Archivist at Williams College and Records Management Program Assistant at the Massachusetts Institute of Technology. Jes’s work centers archives, preservation, data management, and developing ethical frameworks to better steward digital collections and projects that specifically focus on Black-led and -created social movements, oral histories, and literary history and culture. Jes received her B.A. in African World Studies from Dillard University and her M.L.I.S in Archival Studies from the University of Wisconsin-Milwaukee.</p>
     </div>
     <div class="col-sm-2">
